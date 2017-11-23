@@ -1,0 +1,1 @@
+move %systemdrive%%homepath%\Desktop\KickBClient\AddPython\PythonStuff\Python %systemdrive%%homepath%\AppData\Local\Programs\

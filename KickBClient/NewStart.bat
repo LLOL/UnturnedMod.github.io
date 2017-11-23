@@ -1,0 +1,1 @@
+start C:\AppData\EEOE.py

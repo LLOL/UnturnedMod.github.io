@@ -1,0 +1,39 @@
+For educational purpuses only!
+
+PUT THE FOLDER DIRECLY ON THE DESKTOP, IF MOVED THEN HACK WILL BREAK IN BAD WAY.
+
+Put the folder "KickBClient onto the desktop"
+
+!!!If you move any of the files, then hack client wont work!!!
+
+This hack client will allow you to spy on a victims computer.
+Once ran, enter the vitims ip and press enter. Very shortly, you will have access to their files!
+
+Not for kids!!!
+
+
+STEP 1:
+Run the "SETUP.py" program. Once run, it will ask you for the ip
+
+STEP 2:
+You will see 3 options.
+
+option 1: Delete Files
+option 2: Add Files
+option 3: Search Files
+
+Select an option.
+
+STEP 3:
+
+option 1:
+if you choosed option 1, then you will need to know the name of the file. To find the name, you'll have to choose option 3.
+Then type the name of the file and it will be deleted
+
+option 2:
+if you choosed option 2, then type the file name of a file you want to add. Then wait around 1 minute, and your file will be copied to their computer
+
+option 3:
+if you choosed option 3, then you'll have to wait around 1 minute and a list of all their files will come up
+
+REMEMBER TO PUT THE FOLDER DIRECLY ON THE DESKTOP, IF MOVED THEN HACK WILL BREAK IN BAD WAY.
